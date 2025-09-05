@@ -26,7 +26,7 @@ VirtualKeyboard/
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/yourusername/VirtualKeyboard.git
+git clone https://github.com/Mosensei7/VirtualKeyboard.git
 cd VirtualKeyboard
 pip install -r requirements.txt
 
